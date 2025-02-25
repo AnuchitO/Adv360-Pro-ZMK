@@ -1,4 +1,7 @@
-# Kinesis Advantage 360 Pro ZMK Config
+# Kinesis Advantage 360 Pro ZMK Config 
+
+# AnuchitO note  
+- `Mod+Esc` is default unlock key for `https://clique.kinesis-ergo.com/`
 
 ## Modifying the keymap
 
